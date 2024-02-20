@@ -1,0 +1,39 @@
+
+.search
+{
+    margin-top:30px;
+}
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:5rem;
+   margin: 50px 115px;
+   
+  }
+  
+  .card {
+    width: 100%;
+    
+  }
+
+  .card-text{
+    text-align: justify;
+  }
+
+  .list-group-item
+  {
+    text-align: start;
+  }
+
+  .bold
+  {
+    color:red;
+  }
+
+  .loading{
+    margin-top:16px;
+    color:green;
+  }
+  
+  
+  
